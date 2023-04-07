@@ -515,7 +515,7 @@ body {
     padding-top: 100px;
   }
   .image-container {
-    background-image: url("./assets/wave.svg");
+    background-image: url("/assets/wave.svg");
     background-repeat: no-repeat;
     background-color: #feefd0;
     background-position: center bottom;
